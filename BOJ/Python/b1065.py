@@ -10,3 +10,4 @@ for i in range(1,x+1):
   elif num_list[0]-num_list[1] == num_list[1]-num_list[2]:
     count+=1
 print(count)
+
